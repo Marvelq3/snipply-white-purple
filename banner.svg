@@ -84,4 +84,46 @@
   <path d="M 2170 632 L 2170 768 L 2292 700 Z" fill="#5B21B6"/>
   <path d="M 1650 250 L 1664 288 L 1702 302 L 1664 316 L 1650 354 L 1636 316 L 1598 302 L 1636 288 Z" fill="#7C3AED" opacity="0.75"/>
   <path d="M 250 320 L 260 346 L 286 356 L 260 366 L 250 392 L 240 366 L 214 356 L 240 346 Z" fill="#A855F7" opacity="0.6"/>
+  <g fill="#4C1D95">
+    <g opacity="0.65">
+      <circle cx="300" cy="220" r="7"/>
+      <circle cx="350" cy="180" r="4"/>
+      <circle cx="250" cy="290" r="5"/>
+      <circle cx="420" cy="260" r="4"/>
+      <circle cx="1560" cy="620" r="6"/>
+      <circle cx="1590" cy="660" r="4"/>
+      <circle cx="820" cy="600" r="5"/>
+      <circle cx="770" cy="638" r="4"/>
+      <circle cx="430" cy="1120" r="5"/>
+      <circle cx="470" cy="1150" r="3"/>
+      <circle cx="390" cy="1160" r="4"/>
+    </g>
+    <g opacity="0.55">
+      <rect x="860" y="890" width="9" height="9" rx="2"/>
+      <rect x="886" y="890" width="9" height="9" rx="2"/>
+      <rect x="912" y="890" width="9" height="9" rx="2"/>
+      <rect x="938" y="890" width="9" height="9" rx="2"/>
+      <rect x="964" y="890" width="9" height="9" rx="2"/>
+      <rect x="990" y="890" width="9" height="9" rx="2"/>
+      <rect x="1016" y="890" width="9" height="9" rx="2"/>
+      <rect x="1042" y="890" width="9" height="9" rx="2"/>
+      <rect x="1068" y="890" width="9" height="9" rx="2"/>
+      <rect x="1094" y="890" width="9" height="9" rx="2"/>
+      <rect x="1120" y="890" width="9" height="9" rx="2"/>
+      <rect x="1146" y="890" width="9" height="9" rx="2"/>
+    </g>
+    <g opacity="0.6">
+      <path d="M 1880 380 L 1892 404 L 1868 404 Z"/>
+      <path d="M 2440 420 L 2452 444 L 2428 444 Z"/>
+      <path d="M 1760 1060 L 1772 1084 L 1748 1084 Z"/>
+      <path d="M 2340 1120 L 2352 1144 L 2328 1144 Z"/>
+    </g>
+  </g>
+  <g stroke="#4C1D95" stroke-width="3" fill="none" opacity="0.45">
+    <path d="M 340 980 L 340 1010 M 325 995 L 355 995"/>
+    <path d="M 430 950 L 430 980 M 415 965 L 445 965"/>
+    <path d="M 1480 1080 L 1480 1110 M 1465 1095 L 1495 1095"/>
+    <path d="M 1700 300 L 1700 330 M 1685 315 L 1715 315"/>
+  </g>
+  <circle cx="700" cy="1180" r="120" fill="none" stroke="#4C1D95" stroke-width="3" stroke-dasharray="2 22" opacity="0.3"/>
 </svg>

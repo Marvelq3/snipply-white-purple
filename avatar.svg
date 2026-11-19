@@ -40,4 +40,19 @@
   <path d="M 448 318 L 448 438 L 556 378 Z" fill="url(#accent)"/>
   <path d="M 636 168 L 652 210 L 694 226 L 652 242 L 636 284 L 620 242 L 578 226 L 620 210 Z" fill="#7C3AED" opacity="0.9"/>
   <rect x="176" y="646" width="122" height="10" rx="5" fill="url(#accent)"/>
+  <g fill="#4C1D95" opacity="0.8">
+    <circle cx="240" cy="240" r="6"/>
+    <circle cx="560" cy="240" r="5"/>
+    <circle cx="240" cy="560" r="5"/>
+    <circle cx="560" cy="560" r="6"/>
+    <circle cx="400" cy="112" r="4"/>
+    <circle cx="400" cy="700" r="4"/>
+    <path d="M 660 388 L 666 388 L 666 394 L 672 394 L 672 400 L 666 400 L 666 406 L 660 406 L 660 400 L 654 400 L 654 394 L 660 394 Z"/>
+    <path d="M 128 388 L 134 388 L 134 394 L 140 394 L 140 400 L 134 400 L 134 406 L 128 406 L 128 400 L 122 400 L 122 394 L 128 394 Z"/>
+    <path d="M 400 92 L 410 108 L 390 108 Z"/>
+    <path d="M 400 720 L 410 704 L 390 704 Z"/>
+    <rect x="300" y="688" width="38" height="6" rx="3"/>
+    <rect x="462" y="688" width="38" height="6" rx="3"/>
+  </g>
+  <circle cx="400" cy="400" r="330" fill="none" stroke="#4C1D95" stroke-width="4" stroke-dasharray="2 26" opacity="0.28"/>
 </svg>
